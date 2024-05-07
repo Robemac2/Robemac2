@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, meu nome é Roberto</h1>
 <h3 align="center">Estudante de ciência da computação</h3>
 
-- 🔭 Atualmente estou trabalhando no [Projeto-Doceria](https://github.com/Robemac2/Projeto-Doceria)
+- 🔭 Atualmente estou trabalhando no [Projeto-Doceria](https://github.com/Robemac2/Projeto-Doceria) e no projeto [API-Doceria](https://github.com/Robemac2/Projeto-Doceria)
 
-- 🌱 Estou aprendendo sobre **C#, DotNet e SQLite**
+- 🌱 Estou aprendendo sobre **C#, DotNet, SQLite, PostgreSQL, Docker**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui no [GitHub](https://github.com/Robemac2?tab=repositories)
 
